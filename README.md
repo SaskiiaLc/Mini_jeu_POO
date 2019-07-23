@@ -1,0 +1,1 @@
+Bienvenue sur mon mini en POO ! Très succinct, mais bon je progresse comme je peux ;) !
